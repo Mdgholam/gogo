@@ -1,0 +1,2 @@
+# gogo
+my first repo
